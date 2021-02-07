@@ -2,4 +2,9 @@
 You can find here my small projects with:
 * data preparation
 * data analysis
-* data visualization
+* data visualization </br>
+Using following libraries:
+* Pandas
+* NumPy
+* Matplotlib
+Code is written mostly in Jupyter Notebook.
