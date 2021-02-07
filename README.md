@@ -6,9 +6,9 @@
 
 
 **Using following libraries:**
-* Pandas
-* NumPy
-* Matplotlib
+* *Pandas*
+* *NumPy*
+* *Matplotlib*
 
 
-Code is written mostly in Jupyter Notebook.
+Code is written mostly in *Jupyter Notebook*.
