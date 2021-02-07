@@ -1,8 +1,8 @@
 # Data analysis in Python
-<p> **You can find here my small projects with:**
+**You can find here my small projects with:**
 * data preparation
 * data analysis
-* data visualization </p>
+* data visualization 
 **Using following libraries:**
 * Pandas
 * NumPy
