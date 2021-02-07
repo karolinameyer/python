@@ -1,9 +1,9 @@
 # Data analysis in Python
-You can find here my small projects with:
+<p> **You can find here my small projects with:**
 * data preparation
 * data analysis
-* data visualization </br>
-Using following libraries:
+* data visualization </p>
+**Using following libraries:**
 * Pandas
 * NumPy
 * Matplotlib
