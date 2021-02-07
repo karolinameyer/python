@@ -3,8 +3,12 @@
 * data preparation
 * data analysis
 * data visualization 
+
+
 **Using following libraries:**
 * Pandas
 * NumPy
 * Matplotlib
+
+
 Code is written mostly in Jupyter Notebook.
