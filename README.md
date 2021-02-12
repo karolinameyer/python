@@ -15,5 +15,4 @@ Code is written mostly in *Jupyter Notebook*.
 
 
 Current projects:
-* Catalan Companies
-Analysis of the real data of Catalan Companies by Revenue, number of Employees etc.
+1. **Catalan Companies** - Analysis of the real data of Catalan Companies by Revenue, number of Employees etc.
